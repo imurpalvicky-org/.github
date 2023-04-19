@@ -1,1 +1,1 @@
-# This is the org created for mimic the funcitonality of Github functionality 
+# This is the org created for testing the GitHub actions 
